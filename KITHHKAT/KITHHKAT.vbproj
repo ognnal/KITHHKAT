@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48DA18BD-CD39-47C6-B5C0-47456E8139E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>KITHHKAT.My.MyApplication</StartupObject>
+    <RootNamespace>KITHHKAT</RootNamespace>
+    <AssemblyName>KITHHKAT</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>KITHHKAT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>KITHHKAT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>COJ.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="iTextAsian, Version=2.1.0.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\iTextAsian.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddLanguageReceiptText.Designer.vb">
+      <DependentUpon>AddLanguageReceiptText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddLanguageReceiptText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="EditChurch.Designer.vb">
+      <DependentUpon>EditChurch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditChurch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChurch.Designer.vb">
+      <DependentUpon>AddChurch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddChurch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditContributions.Designer.vb">
+      <DependentUpon>EditContributions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditContributions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditHHKContributions.Designer.vb">
+      <DependentUpon>EditHHKContributions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditHHKContributions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditLanguageReceiptText.Designer.vb">
+      <DependentUpon>EditLanguageReceiptText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditLanguageReceiptText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditSponsorInfo.Designer.vb">
+      <DependentUpon>EditSponsorInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditSponsorInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditSponseeInfo.Designer.vb">
+      <DependentUpon>EditSponseeInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditSponseeInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSponseeInfo.Designer.vb">
+      <DependentUpon>AddSponseeInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddSponseeInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSponsorInfo.Designer.vb">
+      <DependentUpon>AddSponsorInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddSponsorInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddContributions.Designer.vb">
+      <DependentUpon>AddContributions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddContributions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HHKATDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HHKATDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HHKATDataSet.vb">
+      <DependentUpon>HHKATDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ucChurch.Designer.vb">
+      <DependentUpon>ucChurch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucChurch.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRelationship.Designer.vb">
+      <DependentUpon>ucRelationship.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucRelationship.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucReports.Designer.vb">
+      <DependentUpon>ucReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucReports.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSponsee.Designer.vb">
+      <DependentUpon>ucSponsee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucSponsee.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMatch.Designer.vb">
+      <DependentUpon>ucMatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucMatch.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSponsor.Designer.vb">
+      <DependentUpon>ucSponsor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucSponsor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddLanguageReceiptText.resx">
+      <DependentUpon>AddLanguageReceiptText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditChurch.resx">
+      <DependentUpon>EditChurch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddChurch.resx">
+      <DependentUpon>AddChurch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditContributions.resx">
+      <DependentUpon>EditContributions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditHHKContributions.resx">
+      <DependentUpon>EditHHKContributions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditLanguageReceiptText.resx">
+      <DependentUpon>EditLanguageReceiptText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditSponsorInfo.resx">
+      <DependentUpon>EditSponsorInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditSponseeInfo.resx">
+      <DependentUpon>EditSponseeInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSponseeInfo.resx">
+      <DependentUpon>AddSponseeInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSponsorInfo.resx">
+      <DependentUpon>AddSponsorInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddContributions.resx">
+      <DependentUpon>AddContributions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucChurch.resx">
+      <DependentUpon>ucChurch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRelationship.resx">
+      <DependentUpon>ucRelationship.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucReports.resx">
+      <DependentUpon>ucReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSponsee.resx">
+      <DependentUpon>ucSponsee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMatch.resx">
+      <DependentUpon>ucMatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSponsor.resx">
+      <DependentUpon>ucSponsor.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="arial.ttf" />
+    <None Include="HDOTUM.TTF" />
+    <None Include="HHKATDataSet.xsc">
+      <DependentUpon>HHKATDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HHKATDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HHKATDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HHKATDataSet.xss">
+      <DependentUpon>HHKATDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HYGoThic-Medium.properties" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="UniKS-UCS2-H" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="itextsharp.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="itextsharp.pdfa.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="itextsharp.xtra.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iTextAsian.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="COJ.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

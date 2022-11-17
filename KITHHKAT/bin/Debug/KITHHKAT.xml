@@ -1,0 +1,368 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KITHHKAT
+</name>
+</assembly>
+<members>
+<member name="P:KITHHKAT.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.arial">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.HDOTUM">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.HYGoThic_Medium">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.iTextAsian">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.itextsharp">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.itextsharp_pdfa">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.itextsharp_xtra">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:KITHHKAT.My.Resources.Resources.UniKS_UCS2_H">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:KITHHKAT.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ChurchInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ContributionsInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.RelationshipInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.SponseeInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.SponsorInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.GenderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.GradeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.PantsSizeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ShirtSizeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ShoeSizeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.StateRefDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.PrimaryLanguageDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ActivityReportTypesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.MonthDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.spGetMonthBirthdayDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.HHKContributionsInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.EditContribReasonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ChurchInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ContributionsInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.RelationshipInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.SponseeInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.SponsorInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.GenderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.GradeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.PantsSizeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ShirtSizeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ShoeSizeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.StateRefRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.PrimaryLanguageRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ActivityReportTypesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.MonthRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.spGetMonthBirthdayRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.HHKContributionsInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.EditContribReasonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ChurchInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ContributionsInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.RelationshipInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.SponseeInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.SponsorInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.GenderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.GradeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.PantsSizeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ShirtSizeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ShoeSizeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.StateRefRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.PrimaryLanguageRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.ActivityReportTypesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.MonthRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.spGetMonthBirthdayRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.HHKContributionsInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet.EditContribReasonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.ChurchInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.ContributionsInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.RelationshipInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.SponseeInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.SponsorInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.GenderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.GradeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.PantsSizeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.ShirtSizeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.ShoeSizeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.StateRefTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.PrimaryLanguageTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.ActivityReportTypesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.MonthTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.spGetMonthBirthdayTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.HHKContributionsInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.EditContribReasonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(KITHHKAT.HHKATDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(KITHHKAT.HHKATDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(KITHHKAT.HHKATDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.UpdateAll(KITHHKAT.HHKATDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:KITHHKAT.HHKATDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

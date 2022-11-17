@@ -1,0 +1,131 @@
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\KITHHKAT.exe.config
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.exe
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.xml
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.pdb
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\KITHHKAT.exe
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\KITHHKAT.pdb
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\KITHHKAT.xml
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\iTextAsian.dll
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\itextsharp.dll
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\itextsharp.pdfa.dll
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\itextsharp.xtra.dll
+E:\KITHHKAT - Copy (26)\KITHHKAT\bin\Debug\itextsharp.xml
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.vbprojResolveAssemblyReference.cache
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.EditChurch.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.AddChurch.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.EditLanguageReceiptText.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.EditSponsorInfo.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.EditSponseeInfo.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.AddSponseeInfo.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.AddSponsorInfo.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.AddContributions.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.frmMain.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.Resources.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.ucChurch.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.ucRelationship.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.ucReports.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.ucSponsee.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.ucMatch.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.ucSponsor.resources
+E:\KITHHKAT - Copy (26)\KITHHKAT\obj\Debug\KITHHKAT.vbproj.GenerateResource.Cache
+E:\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.exe.config
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.exe
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.xml
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.pdb
+E:\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.exe
+E:\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.pdb
+E:\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.xml
+E:\KITHHKAT\KITHHKAT\bin\Debug\iTextAsian.dll
+E:\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.dll
+E:\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.pdfa.dll
+E:\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.xtra.dll
+E:\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.xml
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.vbprojResolveAssemblyReference.cache
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddLanguageReceiptText.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditChurch.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddChurch.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditContributions.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditHHKContributions.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditLanguageReceiptText.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditSponsorInfo.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditSponseeInfo.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddSponseeInfo.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddSponsorInfo.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddContributions.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.frmMain.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.Resources.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucChurch.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucRelationship.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucReports.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucSponsee.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucMatch.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucSponsor.resources
+E:\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.vbproj.GenerateResource.Cache
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.exe.config
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.exe
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.xml
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.pdb
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.exe
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.pdb
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.xml
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\iTextAsian.dll
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.dll
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.pdfa.dll
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.xtra.dll
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.xml
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.vbprojResolveAssemblyReference.cache
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddLanguageReceiptText.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditChurch.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddChurch.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditContributions.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditHHKContributions.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditLanguageReceiptText.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditSponsorInfo.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditSponseeInfo.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddSponseeInfo.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddSponsorInfo.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddContributions.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.frmMain.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.Resources.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucChurch.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucRelationship.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucReports.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucSponsee.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucMatch.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucSponsor.resources
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.vbproj.GenerateResource.Cache
+C:\Users\NN\Desktop\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.Loading.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.exe.config
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.exe
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.pdb
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\KITHHKAT.xml
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\iTextAsian.dll
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.dll
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.pdfa.dll
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.xtra.dll
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\bin\Debug\itextsharp.xml
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.vbprojResolveAssemblyReference.cache
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddLanguageReceiptText.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditChurch.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddChurch.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditContributions.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditHHKContributions.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditLanguageReceiptText.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditSponsorInfo.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.EditSponseeInfo.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddSponseeInfo.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddSponsorInfo.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.AddContributions.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.Loading.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.frmMain.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.Resources.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucChurch.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucRelationship.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucReports.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucSponsee.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucMatch.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.ucSponsor.resources
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.vbproj.GenerateResource.Cache
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.exe
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.xml
+C:\Users\NN\Documents\Visual Studio 2013\Projects\KITHHKAT\KITHHKAT\obj\Debug\KITHHKAT.pdb
